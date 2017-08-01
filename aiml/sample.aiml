@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+    
+<category>
+    <pattern>* ARTIGOS DO AUTOR *</pattern>
+    <template>
+        <star/><set name="autor"><star index="2" /></set>
+    </template>
+</category> 
+
+</aiml>
